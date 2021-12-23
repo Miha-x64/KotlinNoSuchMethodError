@@ -1,4 +1,4 @@
-https://youtrack.jetbrains.com/issue/KT-17242
+~~https://youtrack.jetbrains.com/issue/KT-17242~~
 
 Code listed in [runMe.kt](src/runMe.kt) leads to error:
 ```
